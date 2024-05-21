@@ -16,7 +16,9 @@ How to Play:
 Technologies Used:
 
 1.HTML: Used to structure the web pages and create the basic layout.
+
 2.CSS: Styled the elements to create an engaging and intuitive user interface.
+
 3.JavaScript: Implemented the game logic, enabling interaction and determining the winner based on choices.
 
 Explore this repository to experience the thrill of Rock, Paper, Scissors and challenge the computer in a classic showdown of choices!
